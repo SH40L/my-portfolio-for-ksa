@@ -24,3 +24,27 @@
 }
 
 /* Footer for all */
+
+
+/* For Mobile */
+
+@media screen and (max-width: 576px) {
+    .footer {
+        padding: 10px;
+        padding-bottom: 30px;
+    }
+    
+    .footer-title {
+        font-size: 18px;
+    }
+    
+    .social {
+        margin-right: 15px;
+    }
+    
+    .social a {
+        font-size: 12px;
+    }
+}
+
+/* For Mobile */
